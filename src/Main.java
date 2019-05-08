@@ -124,9 +124,9 @@ public class Main {
 		pile.addCard(Dutchy, 8);;
 		pile.addCard(Province, prov);
 		pile.addCard(Woodcutter, 10);
-		pile.addCard(Smithy, 1);
-		pile.addCard(Village, 1);
-		pile.addCard(Market, 1);
+		pile.addCard(Smithy, 10);
+		pile.addCard(Village, 10);
+		pile.addCard(Market, 10);
 		pile.addCard(Festival, 10);
 		pile.addCard(Laboratory, 10);
 		
